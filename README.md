@@ -1,19 +1,6 @@
-### Hi, I'm Abdul-satar 👋
-
-**Aspiring Python Developer | Building Practical Solution**
-
-I'm a Python learner focused on building real projects to strengthen my skills.
-
----
-
-### 🛠 Skills & Tools
-Python | Git | Github | Vs Code
-
----
-
 # Python-Exercises
 
-A collection of 4 small projects I built while learning Python
+A collection of 4 small program I built while learning Python
 
 ### Projects Included
 
@@ -39,6 +26,11 @@ Generates a multiplication table for any number up to 10.
 
 ### ☎ Contact
 Github: [abdulsatarsoud-dev](https://github.com/abdulsatarsoud-dev)
+
+---
+
+### 🛠 Skills & Tools
+Python | Git | Github | Vs Code
 
 ---
 *Code daily, learn daily*
