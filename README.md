@@ -6,14 +6,6 @@ I'm a Python learner focused on building real projects to strengthen my skills.
 
 ---
 
-### 🎯 My Goals
--**Short Term**: Finish and make many Python projects and master the basics
-
--**Mid Term**: Build full systems and know network basics and get solid in software engineering
-
---**Long Term**: Move into cybersecurity and build secure applications
-
-
 ### 🛠 Skills & Tools
 Python | Git | Github | Vs Code
 
